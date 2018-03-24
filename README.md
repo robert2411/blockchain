@@ -4,7 +4,9 @@
 [![](https://jitpack.io/v/robert2411/blockchain.svg)](https://jitpack.io/#robert2411/blockchain)
 # blockchain
 
-This version is based on: 
+This version is based on : 
 https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa
 
 https://medium.com/programmers-blockchain/creating-your-first-blockchain-with-java-part-2-transactions-2cdac335e0ce
+
+Big parts of the code are still copies
